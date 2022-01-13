@@ -12,9 +12,7 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          오우오우2
-        </a>
+        ></a>
       </header>
     </div>
   );
